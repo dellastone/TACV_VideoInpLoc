@@ -1,2 +1,2 @@
 # TACV_VideoInpLoc
-Repo for the exam Trends and Application  of CV
+Repo with code for Trends and Application of CV exam
